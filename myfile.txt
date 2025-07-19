@@ -1,0 +1,4 @@
+name of the sudent is saran and age of the sudent is 20 
+
+name of the sudent is 30 and age of the sudent is 45 
+
